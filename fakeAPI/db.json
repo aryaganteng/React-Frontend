@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Design",
+      "author": "typicode",
+      "harga": 200000
+    },
+    [
+      {
+        "title": "Development",
+        "author": "lorem ipsum",
+        "harga": 500000
+      }
+    ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
